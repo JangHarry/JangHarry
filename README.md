@@ -6,7 +6,7 @@
 #### - I worked at [SBS Golf & Medianet & Plus](https://junior.tutoring.co.kr/)
 
 #### 🌱 I’m currently learning And my stats
-<img src="https://user-images.githubusercontent.com/22907830/100516311-4e303580-31c6-11eb-98af-1df991156b6d.png" width="44%"><img src="https://github-readme-stats.vercel.app/api?username=JangHarry&show_icons=true&theme=tokyonight" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=JangHarry&show_icons=true&theme=tokyonight" width="50%">
 
 <!--
 **JangHarry/JangHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
