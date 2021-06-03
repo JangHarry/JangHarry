@@ -1,7 +1,15 @@
-### Hi there 👋
+## Junior Web FE Developer `IngCheon` 입니다 👋
+
+
+#### 🔭 I’m currently working on [CJ ENM](https://www.cjenm.com:9003/index.html) - COMMERCE / UIT FRONT
+
+#### - I worked at [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
+
+#### 🌱 I’m currently learning And my stats
+<img src="https://user-images.githubusercontent.com/22907830/100516311-4e303580-31c6-11eb-98af-1df991156b6d.png" width="44%"><img src="https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight" width="50%">
 
 <!--
-**JangHarry/JangHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tjdud0123/tjdud0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
