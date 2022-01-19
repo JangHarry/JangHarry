@@ -1,10 +1,5 @@
 ## Junior Web FE Developer `IngCheon` 입니다 👋
 
-
-#### 🔭 I’m currently working on [SBS_I&M](http://www.sbsinm.co.kr/)  
-
-#### - I worked at [SBS Golf](https://golf.sbs.co.kr) [SBS Plus](https://plus.sbs.co.kr/channel.html) [SBS Medianet](https://medianet.sbs.co.kr/)
-
 #### 🌱 I’m currently learning And my stats
 <img src="https://github-readme-stats.vercel.app/api?username=JangHarry&show_icons=true&theme=tokyonight" width="50%">
 
